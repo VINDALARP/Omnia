@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "omnia",
+	"version": "${version}",
+	"name": "Omnia",
+	"description": "Omnia adds tons of simple APIs for pretty much everything: Rendering, Debugging and more! Who doesn't like saving time?",
+	"authors": [
+		"Vindalarp"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/omnia/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"net.vindalarp.Omnia"
+		]
+	},
+	"mixins": [
+		"omnia.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
