@@ -18,6 +18,7 @@ classes/
 
 # vscode
 
+.github/
 .settings/
 .vscode/
 bin/

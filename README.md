@@ -1,9 +1,7 @@
-# Omnia
+# OMNIA
 
-## Setup
+## Alpha version 0.0.3
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+This should already work as intended. No docs as of yet. I might add them one day but that day is not today.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Standard MIT License
